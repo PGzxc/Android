@@ -1,0 +1,5 @@
+1.Android性能优化典范之Profile GPU Rendering：https://www.jianshu.com/p/061bb80025c7
+2.Android性能优化（一）之启动加速35%：https://juejin.im/post/5874bff0128fe1006b443fa0
+3.Android 性能优化：使用 TraceView 找到卡顿的元凶：https://blog.csdn.net/u011240877/article/details/54347396
+4.Android APP 性能优化的一些思考：https://www.cnblogs.com/cr330326/p/8011523.html
+5.android APP性能优化总结：https://blog.csdn.net/mensheng110/article/details/79036428
